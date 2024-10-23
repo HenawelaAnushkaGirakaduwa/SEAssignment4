@@ -6,4 +6,5 @@
  *
  */
 module EyeClear {
+	requires junit;
 }
